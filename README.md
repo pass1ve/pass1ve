@@ -10,8 +10,9 @@
 <div style="text-align: right">the world's full of lonely people afraid to make the first move.. </div>
 
 ## Technologies I Love
-* C
-* C++
+* Sleep
+* Game
+* Money
 
 <!--<img src = "https://camo.githubusercontent.com/326bf4b3be140c276753fadb8cf3d3d240bbcc6535e61b32849b0f72f62495fe/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f65316631633937313233616532313765623733313530306535303265303038332f74756d626c725f6e39647863696b6d4955317163397a667a6f375f72315f3235302e676966">-->
 
