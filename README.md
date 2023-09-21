@@ -1,4 +1,4 @@
-## Hey, [Passive here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, [Passive here!](https://www.cnblogs.com/passive/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>先祝你每天开心..</h1> 
 
@@ -14,11 +14,7 @@
 * Game
 * Money
 
-
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pass1ve&layout=compact">
-<img src = "https://github-readme-stats.vercel.app/api?username=pass1ve&show_icons=true&hide=[%22issues%22]">
-
-<!--<img src = "https://camo.githubusercontent.com/326bf4b3be140c276753fadb8cf3d3d240bbcc6535e61b32849b0f72f62495fe/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f65316631633937313233616532313765623733313530306535303265303038332f74756d626c725f6e39647863696b6d4955317163397a667a6f375f72315f3235302e676966">-->
 
 ## ⚡Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
