@@ -2,7 +2,7 @@
 
 <h1>先祝你每天开心..</h1> 
 
-<img src = 'assets/IMG_2254.jpg' width="256" height="384" alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'assets/IMG_2354.jpg' width="256" height="384" alt = 'Awesome Matrix Code' align='right'/>
 
 <!--[![cnblog](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.cnblogs.com/passive/) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>-->
