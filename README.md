@@ -14,7 +14,10 @@
 * Game
 * Money
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pass1ve&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api?username=pass1ve&show_icons=true&hide=[%22issues%22]">
+
 <!--<img src = "https://camo.githubusercontent.com/326bf4b3be140c276753fadb8cf3d3d240bbcc6535e61b32849b0f72f62495fe/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f65316631633937313233616532313765623733313530306535303265303038332f74756d626c725f6e39647863696b6d4955317163397a667a6f375f72315f3235302e676966">-->
 
 ## ⚡Programming Languages
@@ -42,5 +45,4 @@ struct WhatAmI
   - :octocat: [cnblog](https://www.cnblogs.com/passive/)
 
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=pass1ve&show_icons=true&hide=[%22issues%22])
- 
  
