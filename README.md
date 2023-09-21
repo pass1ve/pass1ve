@@ -31,12 +31,10 @@ struct WhatAmI
     char *poor;
     char *fun;
     char *photography;
-}me;
+}whatami;
 
-char* getcity()
-{
-	char* city = "CHINA_XIAN";
-	return city;
+char* getcity(){
+	return "CHINA_XIAN";
 }
 	
  ```
