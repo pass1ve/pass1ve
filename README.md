@@ -27,13 +27,21 @@
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> 
  ## 📝Who am I?
  ```C
+#include <stdio.h>
 char name[] = "passive";
+
 struct WhatAmI
 {
-  char *poor;
-  char *fun;
-  char *photography;
+    char *poor;
+    char *fun;
+    char *photography;
 }me;
+
+char* getcity()
+{
+	char* city = "CHINA_XIAN";
+	return city;
+}
 	
  ```
  
