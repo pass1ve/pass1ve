@@ -30,7 +30,6 @@ struct WhatAmI
 {
     char *poor;
     char *fun;
-    char *photography;
 }whatami;
 
 char* getcity(){
