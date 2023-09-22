@@ -1,4 +1,4 @@
-## Hey, [Passive here!](https://www.cnblogs.com/passive/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, [Passive here!](https://pass1ve.github.io/Docsify-Guide/#/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>先祝你每天开心..</h1> 
 
@@ -44,6 +44,7 @@ char* getcity(){
  
 ## 🏁Other Stuff
   - :octocat: [cnblog](https://www.cnblogs.com/passive/)
+  - 🦮[docsify](https://pass1ve.github.io/Docsify-Guide/#/)
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=pass1ve&show_icons=true&hide=[%22issues%22])
+![passive's github stats](https://github-readme-stats.vercel.app/api?username=pass1ve&show_icons=true&hide=[%22issues%22])
  
